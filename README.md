@@ -1,1 +1,2 @@
 # GoF-LoF-analysis
+This two step pipeline was designed to reconstract the evolutionary history of cluster of orthologous genes (COGs) within a dataset, using Wagner parsimony and assess the statistica significance of the events of Gain of Function (GoF) and Loss of Function (LoF). The pipeline was developed during the analyzes of Selleri et al 2026, mSystems "Assessment of genome evolution in Bifidobacterium adolescents indicates genetic adaptation to the human gut" (doi.org/10.1128/msystems.01173).
