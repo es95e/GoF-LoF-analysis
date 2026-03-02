@@ -9,3 +9,6 @@ The first script "GoF_LoF_identification.py" uses Wagner parsimony algorithm to 
 Second script "GoF_LoF_statistical_validation.py" performs a permutation test to calculate the Area under the Curve (AUC) and p values, identifying COGs with a non-random evolutionary patterns.
 
 Important note: Using Wagner parsimony allows for the reacquisition of a previously lost gene. In evolutionary analyses of monospecific datasets, this can lead to the presence of significant GoF and LoF events for the same COG, representing a methodological characteristic of the analysis as it is not possible to distinguish the actual identity of the event.
+
+CONTRIBUTING
+Please feel free to suggest improvements or report issues by opening a pull request.
